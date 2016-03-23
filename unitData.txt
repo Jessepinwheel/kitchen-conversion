@@ -1,0 +1,19 @@
+Cup/s (US),C (US),236.59,true,true
+Tablespoon/s (US),tbsp (US),14.79,true,true
+Teaspoon/s (US),tsp (US),4.93,true,true
+Fluid Ounce/s (US),fl oz (US), 29.57,true,true
+Pint/s (US),pt (US),473.18,true,true
+Quart/s (US),qt (US),946.35,true,true
+Gallon/s (US),gal (US),3785.41,true,true
+Litre/s,L,1000,false,true
+Cup/s (UK),c (UK),250,false,true
+Tablespoon/s (UK),tbsp (UK),15,false,true
+Dessertspoon/s (UK),dstspn (UK),10,false,true
+Teaspoon/s (UK),tsp (UK),5,false,true
+Fluid Ounce/s (UK),fl oz (UK),28.413,false,true
+Pint/s (UK),pt (UK),568.26,false,true
+Quart/s (UK),qt (UK),1136.52,false,true
+Gallon/s (UK),gal (UK),4546.09,false,true
+Ounce/s (avdp),oz (avdp),28.35,true,false
+Pound/s (avdp),lb (avdp),453.59,true,false
+Kilogram/s,kg,1000,false,false
