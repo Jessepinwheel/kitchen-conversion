@@ -6,7 +6,7 @@ Pint/s (US),pt (US),473.18,true,true
 Quart/s (US),qt (US),946.35,true,true
 Gallon/s (US),gal (US),3785.41,true,true
 Litre/s,L,1000,false,true
-Cup/s (UK),c (UK),250,false,true
+Cup/s (UK),C (UK),250,false,true
 Tablespoon/s (UK),tbsp (UK),15,false,true
 Dessertspoon/s (UK),dstspn (UK),10,false,true
 Teaspoon/s (UK),tsp (UK),5,false,true
