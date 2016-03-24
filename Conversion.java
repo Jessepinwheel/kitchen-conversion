@@ -23,7 +23,6 @@ public class Conversion {
 	static private UnitBase unit2; //output (converted) unit
 	static private UnitCount count; //ingredient count unit
 
-	//Constructs an array with all units.
 	public Conversion(){	
 		}
 		
